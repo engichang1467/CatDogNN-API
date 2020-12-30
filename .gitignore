@@ -1,0 +1,4 @@
+.dist
+.DS_Store
+__pycache__
+VGG16_cats_and_dogs.h5
