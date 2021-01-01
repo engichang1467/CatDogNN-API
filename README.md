@@ -23,4 +23,9 @@ export FLASK_APP=app.py
 flask run --host=0.0.0.0
 ```
 
+- Go to this [link](https://localhost:5000/static/index.html) to see it for yourself
+```
+localhost:5000/static/index.html
+```
+
 - HAVE FUN!!!
