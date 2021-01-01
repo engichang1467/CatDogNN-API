@@ -13,7 +13,7 @@
 - Install everything you need from ```requirements.txt```
 
 ```
-pip install -m requirements.txt
+pip install -r requirements.txt
 ```
 
 - Run the app
